@@ -1,0 +1,21 @@
+{
+    "users":[{
+        "username":"najah",
+        "password":"123",
+        "fullname": "Najah Muchsin Sanin",
+        "email": "najah@gmail.com",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.8li1g3WASRlQCpV6X54VCQHaHa&pid=Api&P=0&h=180",
+        "no_hp": "087745431212",
+        "country": "Indonesia"
+    }, 
+    {
+        "username":"fuad",
+        "password":"456",
+        "fullname": "Fuaidil Ikhrom",
+        "email": "fuad@gmail.com",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.8li1g3WASRlQCpV6X54VCQHaHa&pid=Api&P=0&h=180",
+        "no_hp": "081156789430",
+        "country": "Jepang"
+    }
+]
+}
